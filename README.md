@@ -3,7 +3,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=OzgeOzkaya&theme=gruvbox))](https://github.com/ryo-ma/github-profile-trophy)
 
 
-![Ozge's GitHub stats](https://github-readme-stats.vercel.app/api?username=OzgeOzkaya&show_icons=true&theme=Gradient)
+![Ozge's GitHub stats](https://github-readme-stats.vercel.app/api?username=OzgeOzkaya&show_icons=true&theme=merko)
 
 
 <!--
