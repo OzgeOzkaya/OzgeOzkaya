@@ -1,6 +1,6 @@
 # **Hi there** 👋
 
-This is Ozge! Young and solution oriented data scientist with wide variety of NLP & ML project experience. Good at  planning projects and engaging developer teams. Passionate about high quality visual products. Believes in life long learning in every aspect of live.
+This is Ozge Ozkaya! Young and solution oriented data scientist with wide variety of NLP & ML project experience. Good at  planning projects and engaging developer teams. Passionate about high quality visual products. Believes in life long learning in every aspect of live.
 
 ## **About Me**
 
@@ -84,3 +84,6 @@ This is Ozge! Young and solution oriented data scientist with wide variety of NL
 <a target="_blank" href="mailto:ozgeozzkaya@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 <a target="_blank" href=""><img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=Medium&logoColor=white"></img></a>
 </p>
+
+
+*Get this file as a link by clicking [here](https://ozgeozkaya.github.io/OzgeOzkaya/)*
