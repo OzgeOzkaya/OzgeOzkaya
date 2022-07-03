@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=OzgeOzkaya&column=6&margin-w=15&margin-h=15&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=OzgeOzkaya&column=6&margin-w=30&margin-h=15&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ![Ozge's GitHub stats](https://github-readme-stats.vercel.app/api?username=OzgeOzkaya&count_private=true&show_icons=true&theme=merko)
