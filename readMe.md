@@ -4,7 +4,7 @@ This is Ozge Ozkaya! Young and solution oriented data scientist with wide variet
 
 ## **About Me**
 
-* 💫 &nbsp;I work as a Jr. Data Scientist at UNDP, [SDG AI Lab](https://sdgailab.org/) since June, 2021
+* 💫 &nbsp;I work as a  Data Scientist at UNDP, [SDG AI Lab](https://sdgailab.org/) since June, 2021
 * ⚡ &nbsp;I pursue Master's Degree in Computer Engineering department and focusing on the NLP 
 * ✉️ &nbsp;Get in touch with me via email at *ozgeozzkaya@gmail.com* or connect on [LinkedIn](https://www.linkedin.com/in/ozgeozzkaya/)
 
