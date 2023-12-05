@@ -17,11 +17,11 @@ This is Ozge Ozkaya! Young and solution oriented data scientist with wide variet
 * [Basic level chatbot application (CENG-bot) ](https://www.linkedin.com/feed/update/urn:li:activity:6795673109606215680/)
 
 * Engaged with/delivered projects to:
-  1. UNDP Morocco & Central Bank of Morocco on subject "Providing Fair Digital Finance by Social Listening"
-  3. INFF on subject "Automatizing Research Processes"
-  4. UNDP's DRR Team on subject "Building a web tool to track digital technologies on Disaster Field"
-  5. Oslo Governance Centre (OGC) on subject  "Building a Knowledge Base"
-  6. TurkishWIN on subject  on subject  "Deployment of an ML API"
+  1. **UNDP Morocco & Central Bank of Morocco** on subject *"Providing Fair Digital Finance by Social Listening"*
+  3. **INFF** on subject *"Automatizing Research Processes"*
+  4. **UNDP's DRR Team** on subject *"Building a web tool to track digital technologies on Disaster Field"*
+  5. **Oslo Governance Centre (OGC)** on subject  *"Building a Knowledge Base"*
+  6. **TurkishWIN** on subject  on subject *"Deployment of an ML API"*
 
 ## **Publications**
 1. [Intent Detection Using Contextualized Deep SemSpace](https://link.springer.com/article/10.1007/s13369-022-07016-9)
