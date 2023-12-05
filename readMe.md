@@ -45,19 +45,6 @@ This is Ozge Ozkaya! Young and solution oriented data scientist with wide variet
 
 <br>
 
-**Planning to learn:**
-
-<br>
-
-- [ ] MongoDB
-- [ ] Certified Associate Developer for Apache Spark
-- [ ] AWS
-	- [ ] Certified Data Analytics Specialty
-- [ ] BI
-	- [ ] Data Analyst Associate with Power BI
-
-<br>
-
 ## **GitHub History**
 
 ### ***Trophies***
