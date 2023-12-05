@@ -8,6 +8,21 @@ This is Ozge Ozkaya! Young and solution oriented data scientist with wide variet
 * ⚡ &nbsp;I pursue Master's Degree in Data Science at Vienna University of Technology (TUWien)
 * ✉️ &nbsp;Get in touch with me via email at *ozgeozzkaya@gmail.com* or connect on [LinkedIn](https://www.linkedin.com/in/ozgeozzkaya/)
 
+## **Projects and Engagements**
+
+* Samsung Innovation Campus - First Place with ML model to Predict Wildfires. For more information, follow these links [Article published by Economist - Impact Hub](https://impact.economist.com/projects/future-is-you/article/spotting-wildfire-risks-with-ai-technology/), [Video Clip published by Economist - Impact Hub](https://impact.economist.com/projects/future-is-you/), [Video Clip published by Samsung Türkiye](https://www.youtube.com/watch?v=7T-Y82nCF_I)
+* United Nations Volunteers Success Story: [UN Volunteer breaking gender barriers in data science](https://www.unv.org/Success-stories/un-volunteer-breaking-gender-barriers-data-science)
+* [Basic level chatbot application (CENG-bot) ](https://www.linkedin.com/feed/update/urn:li:activity:6795673109606215680/)
+* Engaged with/delivered projects to:
+  1. UNDP Morocco & Central Bank of Morocco on subject "Providing Fair Digital Finance by Social Listening"
+  3. INFF on subject "Automatizing Research Processes"
+  4. UNDP's DRR Team on subject "Building a web tool to track digital technologies on Disaster Field"
+  5. Oslo Governance Centre (OGC) "Building a Knowledge Base"
+  6. TurkishWIN "Deployment of an ML API"
+
+## **Publications**
+1. [Intent Detection Using Contextualized Deep SemSpace](https://link.springer.com/article/10.1007/s13369-022-07016-9)
+2. [Automatic short answer grading with semspace sense vectors and malstm](https://ieeexplore.ieee.org/abstract/document/9335022/)
 ## **About My Work**
 
 **Can work with:**
@@ -39,6 +54,7 @@ This is Ozge Ozkaya! Young and solution oriented data scientist with wide variet
   <img title="Tens" alt="Tens" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/TensorFlow_logo.svg" width="65" />	
   <img title="HTML" alt="HTML" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="65" />
   <img title="HTML" alt="HTML" src="https://matplotlib.org/stable/_images/sphx_glr_logos2_003_2_0x.png" width="65" />
+  <img title="HTML" alt="HTML" src="https://inspector.dev/wp-content/uploads/2023/04/logo-python-django.png" width="65" />
 
 
 </p>
