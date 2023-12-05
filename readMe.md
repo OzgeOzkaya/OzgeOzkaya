@@ -8,11 +8,14 @@ This is Ozge Ozkaya! Young and solution oriented data scientist with wide variet
 * ⚡ &nbsp;I pursue Master's Degree in Data Science at Vienna University of Technology (TUWien)
 * ✉️ &nbsp;Get in touch with me via email at *ozgeozzkaya@gmail.com* or connect on [LinkedIn](https://www.linkedin.com/in/ozgeozzkaya/)
 
-## **Projects and Engagements**
+## **Engagements**
 
 * Samsung Innovation Campus - First Place with ML model to Predict Wildfires. For more information, follow these links [Article published by Economist - Impact Hub](https://impact.economist.com/projects/future-is-you/article/spotting-wildfire-risks-with-ai-technology/), [Video Clip published by Economist - Impact Hub](https://impact.economist.com/projects/future-is-you/), [Video Clip published by Samsung Türkiye](https://www.youtube.com/watch?v=7T-Y82nCF_I)
+  
 * United Nations Volunteers Success Story: [UN Volunteer breaking gender barriers in data science](https://www.unv.org/Success-stories/un-volunteer-breaking-gender-barriers-data-science)
+  
 * [Basic level chatbot application (CENG-bot) ](https://www.linkedin.com/feed/update/urn:li:activity:6795673109606215680/)
+
 * Engaged with/delivered projects to:
   1. UNDP Morocco & Central Bank of Morocco on subject "Providing Fair Digital Finance by Social Listening"
   3. INFF on subject "Automatizing Research Processes"
@@ -22,7 +25,9 @@ This is Ozge Ozkaya! Young and solution oriented data scientist with wide variet
 
 ## **Publications**
 1. [Intent Detection Using Contextualized Deep SemSpace](https://link.springer.com/article/10.1007/s13369-022-07016-9)
-2. [Automatic short answer grading with semspace sense vectors and malstm](https://ieeexplore.ieee.org/abstract/document/9335022/)
+   
+3. [Automatic short answer grading with semspace sense vectors and malstm](https://ieeexplore.ieee.org/abstract/document/9335022/)
+   
 ## **About My Work**
 
 **Can work with:**
