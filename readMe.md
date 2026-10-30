@@ -4,7 +4,7 @@ This is Ozge Ozkaya! Young and solution oriented data scientist with wide variet
 
 ## **About Me**
 
-* 💫 &nbsp;I work as Regional Data Analytics Lead at Allianz Holding Eins
+* 💫 &nbsp;I work as Regional Data Science Lead at Allianz Holding Eins
 * ⚡I have more than 4 years of experience as Data Scientist
 * ⚡ &nbsp;I pursue Master's Degree in Data Science at Vienna University of Technology (TUWien)
 * ✉️ &nbsp;Get in touch with me via email at *ozgeozzkaya@gmail.com* or connect on [LinkedIn](https://www.linkedin.com/in/ozgeozzkaya/)
